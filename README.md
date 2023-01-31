@@ -6,7 +6,7 @@ I'm a SLIS student at Simmons University taking a course on web development and 
 
 This is my first lab where I used git to edit the files and push onto Github. It's a simple web page with a poem.
 
-I'm writing this readme just in case somebody stumbles upon it. If you want, you can branch out and edit the CSS however you'd like. I'd like to see what cool stuff you'll come up with.
+I'm writing this readme just in case somebody stumbles upon it. If you want, you can branch out and edit the CSS however you'd like. I'd like to see what cool stuff you come up with.
 
 Regards,
 
