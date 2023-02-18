@@ -1,5 +1,6 @@
 body {
-	background-color: white
+	background-color: white;
+
 }
 
 h1 {
@@ -14,5 +15,30 @@ h2 {
 
 p {
 	font-family: 'Tienne', serif;
+}
+
+#content {
+	margin: auto;
+	width: 800px;
+}
+
+.poem {
+
+	margin: auto;
+}
+
+@media (max-width: 600px) {
+
+    #content {
+        width: 100%;
+        border: none;
+    }
+    h1 {
+        text-align: center;
+    }
+ 
+	.gallery-photo {
+		max-width: 100%;
+	}
 }
 
